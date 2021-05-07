@@ -1,0 +1,196 @@
+@charset "utf-8";
+
+  .TopMenuText {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    padding:0px;
+    font-family: Verdana,Geneva,sans-serif;
+  }
+
+body {
+    background-color: #F9F4F8;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+.allignLeft {
+    height: 100%;
+    margin: 0;
+
+}
+
+
+  /* They are provided as examples of hover elments
+   How could you use them? */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+    padding: 14px 16px;
+}
+
+/* Change color on hover */
+.topnav a:hover { 
+    background-color: #ddd;
+    color: black;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+    float: left;
+    width: 100%;
+}
+
+img.round {
+    border-radius: 50%;
+}
+
+a { 
+    color: inherit;
+    text-decoration: 0;
+
+} 
+
+
+.aboutMe{
+    position: absolute;
+width: 186px;
+height: 39px;
+left: 23px;
+top: 215px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+
+.aboutMeInfo {
+    position: absolute;
+    width: 514px;
+    height: 141px;
+    left: 23px;
+    top: 272px;
+    background: #61AAD2;
+
+}
+
+.intrestOne {
+    position: absolute;
+    width: 109px;
+    height: 93px;
+    left: 651px;
+    top: 272px;
+    background: #C4C4C4;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+
+}
+
+.intrestTwo {
+    position: absolute;
+    width: 109px;
+    height: 93px;
+    left: 651px;
+    top: 510px;
+    background: #C4C4C4;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+    
+}
+
+.intrestThree {
+    position: absolute;
+    width: 109px;
+    height: 93px;
+    left: 651px;
+    top: 748.5px;
+    background: #C4C4C4;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+
+.intrestTitle {
+    position: absolute;
+    width: 494px;
+    height: 177px;
+    left: 901px;
+    top: 225px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+
+}
+
+
+.intrestOneBox {
+    position: absolute;
+    width: 494px;
+    height: 177px;
+    left: 901px;
+    top: 272px;
+    background: #C4C4C4;
+
+}
+
+.intrestTwoBox {
+    position: absolute;
+    width: 494px;
+    height: 177px;
+    left: 901px;
+    top: 489px;
+    background: #C4C4C4;
+
+}
+
+.intrestThreeBox {
+    position: absolute;
+    width: 494px;
+    height: 177px;
+    left: 901px;
+    top: 706px;
+    background: #C4C4C4;
+
+}
+
+.line {
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 0px;
+    top: 254px;
+    border: 1px solid #000000;
+
+}
